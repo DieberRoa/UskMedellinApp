@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/dieberroa/Documentos/Codigo/Android/USK/UskMedMovil/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/home/dieberroa/Documentos/Codigo/Android/USK/UskMedMovil/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_798292beda9d282efc334ad98a7b7c82d96f83de.jar" />
+    </item>
+    <item
+        jar="/home/dieberroa/Documentos/Codigo/Android/USK/UskMedMovil/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6575de34491ce5b8d6b69ea380099490e308d03b">
+        <dex dex="/home/dieberroa/Documentos/Codigo/Android/USK/UskMedMovil/app/build/intermediates/pre-dexed/debug/instant-run_361c1e403f0fc3fe949e2694552385e592af9bd1.jar" />
+    </item>
+    <item
+        jar="/home/dieberroa/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/home/dieberroa/Documentos/Codigo/Android/USK/UskMedMovil/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_a024683e44d0b620b151748bb6cea70927a31dda.jar" />
+    </item>
+    <item
+        jar="/home/dieberroa/Documentos/Codigo/Android/USK/UskMedMovil/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/home/dieberroa/Documentos/Codigo/Android/USK/UskMedMovil/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_c8f230a283d5afdf336850d5429cd08b9b775b0e.jar" />
+    </item>
+    <item
+        jar="/home/dieberroa/Documentos/Codigo/Android/USK/UskMedMovil/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="820605b42a2d3d9cb9e6c4cc7453fb4f802aedff">
+        <dex dex="/home/dieberroa/Documentos/Codigo/Android/USK/UskMedMovil/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.15.0_007484ea65e7d16287e124707c002162140635c4.jar" />
+    </item>
+    <item
+        jar="/home/dieberroa/Documentos/Codigo/Android/USK/UskMedMovil/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/home/dieberroa/Documentos/Codigo/Android/USK/UskMedMovil/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_d8a2c8540e7f15330ffd152a577ea2f70057f213.jar" />
+    </item>
+    <item
+        jar="/home/dieberroa/Documentos/Codigo/Android/USK/UskMedMovil/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/home/dieberroa/Documentos/Codigo/Android/USK/UskMedMovil/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_6dd7eb484905e48f3378b31c1e22cacab697e906.jar" />
+    </item>
+    <item
+        jar="/home/dieberroa/Documentos/Codigo/Android/USK/UskMedMovil/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/home/dieberroa/Documentos/Codigo/Android/USK/UskMedMovil/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_82ab8db60ef8174de2a39f6ece6aa5c4d8ac92de.jar" />
+    </item>
+    <item
+        jar="/home/dieberroa/Documentos/Codigo/Android/USK/UskMedMovil/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/home/dieberroa/Documentos/Codigo/Android/USK/UskMedMovil/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_aa5d1849724ea2ffa54c96df77554f065466f11b.jar" />
+    </item>
+    <item
+        jar="/home/dieberroa/Documentos/Codigo/Android/USK/UskMedMovil/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/home/dieberroa/Documentos/Codigo/Android/USK/UskMedMovil/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_8626ff8400797cbada90dd73fa6b73934c80fc5e.jar" />
+    </item>
+    <item
+        jar="/home/dieberroa/Documentos/Codigo/Android/USK/UskMedMovil/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/home/dieberroa/Documentos/Codigo/Android/USK/UskMedMovil/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_c38f5bd6fda7738cb0f659b2dd9de3b180833989.jar" />
+    </item>
+    <item
+        jar="/home/dieberroa/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/dieberroa/Documentos/Codigo/Android/USK/UskMedMovil/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_f3cd75df9516816e15a4f420daa0a29c8fdc85d5.jar" />
+    </item>
+    <item
+        jar="/home/dieberroa/Documentos/Codigo/Android/USK/UskMedMovil/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/home/dieberroa/Documentos/Codigo/Android/USK/UskMedMovil/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_43caf59ae5be92cfd682981e77e58e575e3f5239.jar" />
+    </item>
+    <item
+        jar="/home/dieberroa/Documentos/Codigo/Android/USK/UskMedMovil/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="/home/dieberroa/Documentos/Codigo/Android/USK/UskMedMovil/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-23.4.0_0667c0d5e93f6298a3798b088b2e8e87ce54736c.jar" />
+    </item>
+    <item
+        jar="/home/dieberroa/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/dieberroa/Documentos/Codigo/Android/USK/UskMedMovil/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_1244c32203914420be39d2d59af03ca15acb0497.jar" />
+    </item>
+    <item
+        jar="/home/dieberroa/Documentos/Codigo/Android/USK/UskMedMovil/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/home/dieberroa/Documentos/Codigo/Android/USK/UskMedMovil/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_e1a7618d1dca349527ba6c02eddafff314a2aa32.jar" />
+    </item>
+    <item
+        jar="/home/dieberroa/Documentos/Codigo/Android/USK/UskMedMovil/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="96fa2c6f502a2c8e045a15827ae28892a2c5cfb5">
+        <dex dex="/home/dieberroa/Documentos/Codigo/Android/USK/UskMedMovil/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_47e1bef06b40ffedbe423fc2ec50f82b82fac3fc.jar" />
+    </item>
+    <item
+        jar="/home/dieberroa/Documentos/Codigo/Android/USK/UskMedMovil/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/home/dieberroa/Documentos/Codigo/Android/USK/UskMedMovil/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_63c9e1b9333ad644e6728f607b4bdca9910af667.jar" />
+    </item>
+    <item
+        jar="/home/dieberroa/Documentos/Codigo/Android/USK/UskMedMovil/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/home/dieberroa/Documentos/Codigo/Android/USK/UskMedMovil/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_a8205dab48aed054c2c569baad4b49607b28852c.jar" />
+    </item>
+    <item
+        jar="/home/dieberroa/Documentos/Codigo/Android/USK/UskMedMovil/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/home/dieberroa/Documentos/Codigo/Android/USK/UskMedMovil/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_f59673b04c42748d22b5d1fa33f3d4dae0f247d8.jar" />
+    </item>
+    <item
+        jar="/home/dieberroa/Documentos/Codigo/Android/USK/UskMedMovil/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/home/dieberroa/Documentos/Codigo/Android/USK/UskMedMovil/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_4b01c7a0763c04289ddc0d5efc17c5f66df481a5.jar" />
+    </item>
+    <item
+        jar="/home/dieberroa/Documentos/Codigo/Android/USK/UskMedMovil/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/home/dieberroa/Documentos/Codigo/Android/USK/UskMedMovil/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.4.0_803575dab87838fb817330cb8ea7ac487119516e.jar" />
+    </item>
+
+</items>
